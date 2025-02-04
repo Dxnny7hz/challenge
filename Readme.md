@@ -3,4 +3,5 @@
 -Estado el proyecto: En construcion
 
 Para ejecutar el sistema debes porner:
+
 '''npm install react'''
