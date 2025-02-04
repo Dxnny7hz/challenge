@@ -4,5 +4,7 @@
 
 Para ejecutar el sistema debes porner:
 
-''' npm install react '''
+''' npm install react ''' 
+
+nose por que no lee las comillas simples 
 
